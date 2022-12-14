@@ -1,0 +1,53 @@
+html {
+  font-size: 20px;
+  font-family: Arial;
+  background-color: lightgray;
+}
+
+
+#title {
+  width: 100%;
+  text-align: center;
+  color: black;
+}
+
+.quote{
+  text-align: center;
+  font-style: italic;
+  width: 100%;
+  color: black;
+}
+
+#image {
+  max-width: 100%;
+  position: relative;
+  display: block;
+
+}
+#img-caption {
+  text-align: center;
+}
+#tribut-info {
+  text-align: justify;
+  
+}
+ul {
+  width:100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5%;
+  text-align: center;
+  
+}
+#description {
+  text-align: center;
+  font-weight: bold;
+}
+
+li {
+  margin-top: 10px;
+  color: black;
+  
+}
+
+
